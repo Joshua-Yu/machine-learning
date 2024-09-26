@@ -1,0 +1,4 @@
+================================================== SAMPLE_0 ==================================================
+Crowdsourcing has gained immense popularity in machine learning applications for obtaining large amoebas of information within minutes or seconds. The potential applications are applications that can be implemented as simple search based on a data set and then analyzed by other teams. It can be thought of as a simple algorithm to measure a person's reaction time, which is used for identifying people in a social experiment. Crowdsourcing has its advantages in that the application can be tested in real-time by other teams (i.e. people are allowed to comment).
+
+To understand what this means,
